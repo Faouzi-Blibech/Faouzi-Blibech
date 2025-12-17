@@ -5,4 +5,4 @@ I am a Digital Engineering student with a strong interest in technology, problem
 Contact:
 
 
-LinkedIn: [ (https://www.linkedin.com/in/faouzi-blibech/) ]
+LinkedIn: https://www.linkedin.com/in/faouzi-blibech
